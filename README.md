@@ -49,20 +49,20 @@ GitHub.
 |  4 | 08/15 | Inheritance & composition | Online     |                 |
 |  5 | 08/20 | Lab                       | Online     | Quiz 1          |
 |  6 | 08/22 | Promises                  | Online     |                 |
-|  7 | 08/27 | Async and await           | In-person* | Exam 1          |
+|  7 | 08/27 | Async and await           | In-person* |                 |
 |  8 | 08/29 | Fetch                     | Online     |                 |
-|  9 | 09/03 | Exceptions                | Online     | Quiz 2          |
+|  9 | 09/03 | Exceptions                | Online     | Project 1       |
 | 10 | 09/10 | Lab                       | In-person* |                 |
 | 11 | 09/17 | URL & History             | Online     |                 |
-| 12 | 09/19 | Custom elements           | Online     | Exam 2          |
-| 13 | 09/24 | Shadow DOM                | In-person* |                 |
+| 12 | 09/19 | Custom elements           | Online     |                 |
+| 13 | 09/24 | Shadow DOM                | In-person* | Project 2       |
 | 14 | 09/26 | HTML templates            | Online     |                 |
-| 15 | 10/01 | Lab                       | Online     |                 |
+| 15 | 10/01 | Lab                       | Online     | Quiz 2          |
 | 16 | 10/03 | Runtime environments      | Online     |                 |
-| 17 | 10/08 | Third-party libraries     | In-person* | Exam 3          |
+| 17 | 10/08 | Third-party libraries     | In-person* |                 |
 | 18 | 10/10 | Lab                       | Online     |                 |
-| 19 | 10/15 | Lab                       | Online     |                 |
-| 20 | 10/17 | Lab                       | Online     | LIA             |
+| 19 | 10/15 | Lab                       | Online     | Project 3       |
+| 20 | 10/17 | LIA                       | Online     | LIA             |
 
 *Classroom: E-413
 
@@ -82,12 +82,12 @@ Quizzes are similar in scope to homework assignments, but their content
 is graded. They aim to assess students' understanding of one or two
 concepts at most, and allow the teacher to provide rapid feedback.
 
-### Exams (3 × 20%)
+### Projects (3 × 20%)
 
-Exams are designed to assess students' understanding of the learning
+Projects are designed to assess students' understanding of the learning
 material. As such, they are graded based on the level of proficiency
-students exhibit for the course competencies. Students have one week to
-complete and submit the exam.
+students exhibit for the course competencies. Students have two weeks to
+complete and submit the projects.
 
 ### LIA (20%)
 
